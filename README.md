@@ -206,3 +206,13 @@ contains no upstream code, only constants read from it and cited in comments.
 
 Nothing here automates posting, logs into an account, or touches data that isn't
 yours. It reads local files and prints analysis.
+
+---
+
+## Author
+
+Harshith Nayaka L ([@harshithnayakal](https://github.com/harshithnayakal))
+
+## License
+
+MIT — see [LICENSE](./LICENSE).
